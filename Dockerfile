@@ -1,4 +1,4 @@
-FROM golang:1.13.8-alpine3.10
+FROM golang:1.14.0-alpine3.11
 
 LABEL maintainer="Amir Ghaffari Heravi<contact@amirghaffari.com>"
 
